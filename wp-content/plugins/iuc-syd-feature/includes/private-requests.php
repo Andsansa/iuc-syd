@@ -24,8 +24,8 @@ function iuc_register_private_requests() {
 			'public'              => false,
 			'publicly_queryable'  => false,
 			'exclude_from_search' => true,
-			'show_ui'             => true,
-			'show_in_menu'        => true,
+			'show_ui'             => false,
+			'show_in_menu'        => false,
 			'show_in_nav_menus'   => false,
 			'menu_icon'           => 'dashicons-lock',
 			'supports'            => array( 'title', 'editor', 'author' ),
@@ -225,8 +225,9 @@ function iuc_handle_private_request() {
 		exit;
 	}
 
-	$user_id = get_current_user_id();
-	$company = iuc_get_request_company( $user_id );
+	$user_id    = get_current_user_id();
+	$company_id = function_exists( 'iuc_company_id_for_user' ) ? iuc_company_id_for_user( $user_id ) : 0;
+	$company    = $company_id ? get_the_title( $company_id ) : iuc_get_request_company( $user_id );
 
 	$post_id = wp_insert_post(
 		array(
@@ -238,6 +239,7 @@ function iuc_handle_private_request() {
 			'meta_input'   => array(
 				'iuc_request_type'    => $type,
 				'iuc_request_company' => sanitize_text_field( $company ),
+				'iuc_request_company_id' => $company_id,
 				'iuc_request_status'  => 'new',
 			),
 		),

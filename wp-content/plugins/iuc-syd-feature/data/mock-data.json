@@ -1,0 +1,2006 @@
+{
+ "password": "Test1234!",
+ "companies": [
+  {
+   "key": "hoglunds",
+   "name": "Höglunds Verkstad AB",
+   "status": "publish",
+   "kommun": "Malmö",
+   "city": "Malmö",
+   "industry": "Verkstadsindustri",
+   "org_nr": "556201-1001",
+   "address": "Verkstadsgatan 12",
+   "postcode": "211 20",
+   "phone": "040-000 00 00",
+   "website": "https://www.hoglunds-verkstad.example",
+   "employees": 28,
+   "description": "Mekanisk verkstad som tillverkar kundanpassade komponenter i små och medelstora serier.",
+   "notes": "",
+   "main": "anna.lindqvist",
+   "needs": [
+    {
+     "text": "Automatisera monteringen",
+     "amne": "Automation",
+     "vis": "Alla medlemmar"
+    },
+    {
+     "text": "Hitta samarbetspartner inom elektronik",
+     "amne": "Utveckla affären",
+     "vis": "Alla medlemmar"
+    },
+    {
+     "text": "Kartlägga kompetensbehov inför omställning",
+     "amne": "Kompetensutveckling",
+     "vis": "Endast IUC Syd"
+    }
+   ],
+   "participation": [
+    {
+     "name": "Produktionslyftet",
+     "sub": "Pågående projekt",
+     "status": "Deltar"
+    },
+    {
+     "name": "Kickstart AI",
+     "sub": "Anmälan via Ungapped",
+     "status": "Anmäld"
+    },
+    {
+     "name": "Nätverksträff: Automation",
+     "sub": "14 okt · Anmälan via Ungapped",
+     "status": "Anmäld"
+    }
+   ]
+  },
+  {
+   "key": "nordisk",
+   "name": "Nordisk Plåtteknik AB",
+   "status": "publish",
+   "kommun": "Lund",
+   "city": "Lund",
+   "industry": "Plåtbearbetning",
+   "org_nr": "556312-2002",
+   "address": "Plåtvägen 4",
+   "postcode": "224 64",
+   "phone": "046-100 20 30",
+   "website": "https://www.nordisk-platteknik.example",
+   "employees": 34,
+   "description": "Tillverkar kundanpassade plåtdetaljer i små och medelstora serier för industrin i Skåne.",
+   "notes": "",
+   "main": "erik.sandberg",
+   "needs": [
+    {
+     "text": "Koppla ERP till robotcell",
+     "amne": "Automation",
+     "vis": "Alla medlemmar"
+    },
+    {
+     "text": "Hitta partner för ytbehandling",
+     "amne": "Utveckla affären",
+     "vis": "Alla medlemmar"
+    }
+   ],
+   "participation": [
+    {
+     "name": "Produktionslyftet",
+     "sub": "Pågående projekt",
+     "status": "Deltar"
+    },
+    {
+     "name": "Nätverksträff: Automation",
+     "sub": "14 okt · Anmälan via Ungapped",
+     "status": "Anmäld"
+    }
+   ]
+  },
+  {
+   "key": "sydstal",
+   "name": "Sydstål Komponenter AB",
+   "status": "publish",
+   "kommun": "Helsingborg",
+   "city": "Helsingborg",
+   "industry": "Legotillverkning",
+   "org_nr": "556423-3003",
+   "address": "Stålgatan 8",
+   "postcode": "252 21",
+   "phone": "042-200 30 40",
+   "website": "https://www.sydstal.example",
+   "employees": 52,
+   "description": "Legotillverkning av komponenter för verkstadsindustrin, med fokus på stål och rostfritt.",
+   "notes": "",
+   "main": "lena.hakansson",
+   "needs": [
+    {
+     "text": "Kartlägga kompetensbehov inför omställning",
+     "amne": "Kompetensutveckling",
+     "vis": "Alla medlemmar"
+    },
+    {
+     "text": "Automatisera lackeringen",
+     "amne": "Automation",
+     "vis": "Alla medlemmar"
+    }
+   ],
+   "participation": [
+    {
+     "name": "Kickstart AI",
+     "sub": "Anmälan via Ungapped",
+     "status": "Anmäld"
+    }
+   ]
+  },
+  {
+   "key": "ystad",
+   "name": "Ystad Pumpteknik AB",
+   "status": "publish",
+   "kommun": "Ystad",
+   "city": "Ystad",
+   "industry": "Maskinindustri",
+   "org_nr": "556534-4004",
+   "address": "Pumpgränd 3",
+   "postcode": "271 39",
+   "phone": "0411-300 40",
+   "website": "https://www.ystadpump.example",
+   "employees": 61,
+   "description": "Konstruerar och tillverkar pumpar för processindustrin, med egen provningsanläggning.",
+   "notes": "",
+   "main": "maria.bergstrom",
+   "needs": [
+    {
+     "text": "Cybersäkerhet inför kundkrav",
+     "amne": "Cybersäkerhet",
+     "vis": "Alla medlemmar"
+    },
+    {
+     "text": "Rekrytera operatörer",
+     "amne": "Attrahera framtida medarbetare",
+     "vis": "Alla medlemmar"
+    }
+   ],
+   "participation": [
+    {
+     "name": "Webinar: Cybersäkerhet",
+     "sub": "22 okt · Ungapped",
+     "status": "Anmäld"
+    },
+    {
+     "name": "Produktionslyftet",
+     "sub": "Pågående projekt",
+     "status": "Deltar"
+    }
+   ]
+  },
+  {
+   "key": "trelleborg",
+   "name": "Trelleborg Verktyg AB",
+   "status": "publish",
+   "kommun": "Trelleborg",
+   "city": "Trelleborg",
+   "industry": "Verktygstillverkning",
+   "org_nr": "556645-5005",
+   "address": "Verktygsvägen 6",
+   "postcode": "231 41",
+   "phone": "0410-400 50",
+   "website": "https://www.trelleborgverktyg.example",
+   "employees": 19,
+   "description": "Tillverkar och reparerar verktyg och fixturer till tillverkande företag i regionen.",
+   "notes": "",
+   "main": "johan.nilsson",
+   "needs": [
+    {
+     "text": "Införa 5S på fler avdelningar",
+     "amne": "Effektiviseringar inom produktion",
+     "vis": "Alla medlemmar"
+    }
+   ],
+   "participation": [
+    {
+     "name": "Workshop: Effektivisering och 5S",
+     "sub": "5 nov · Ungapped",
+     "status": "Anmäld"
+    }
+   ]
+  },
+  {
+   "key": "skane-ytbehandling",
+   "name": "Skåne Ytbehandling AB",
+   "status": "pending",
+   "kommun": "Landskrona",
+   "city": "Landskrona",
+   "industry": "Ytbehandling",
+   "org_nr": "556756-6006",
+   "address": "Lackeringsvägen 2",
+   "postcode": "261 35",
+   "phone": "0418-500 60",
+   "website": "https://www.skaneyt.example",
+   "employees": 14,
+   "description": "Pulverlackering och ytbehandling av metallkomponenter åt tillverkande industri.",
+   "notes": "",
+   "main": "bo.karlsson",
+   "needs": [
+    {
+     "text": "Hitta fler industrikunder i regionen",
+     "amne": "Utveckla affären",
+     "vis": "Endast IUC Syd"
+    }
+   ],
+   "participation": []
+  },
+  {
+   "key": "lunds-automation",
+   "name": "Lunds Automation AB",
+   "status": "publish",
+   "kommun": "Lund",
+   "city": "Lund",
+   "industry": "Automation",
+   "org_nr": "556867-7007",
+   "address": "Robotvägen 9",
+   "postcode": "224 78",
+   "phone": "046-600 70 80",
+   "website": "https://www.lundsautomation.example",
+   "employees": 45,
+   "description": "Systemintegratör som bygger robotceller och automatiserade monteringslinjer för tillverkande industri.",
+   "notes": "",
+   "main": "karl.nordin",
+   "needs": [
+    {
+     "text": "Hitta pilotkunder för visionstyrd plockning",
+     "amne": "Utveckla affären",
+     "vis": "Alla medlemmar"
+    },
+    {
+     "text": "Rekrytera automationstekniker",
+     "amne": "Attrahera framtida medarbetare",
+     "vis": "Alla medlemmar"
+    }
+   ],
+   "participation": [
+    {
+     "name": "Nätverksträff: Automation",
+     "sub": "14 okt · Anmälan via Ungapped",
+     "status": "Anmäld"
+    },
+    {
+     "name": "Kickstart AI",
+     "sub": "Anmälan via Ungapped",
+     "status": "Anmäld"
+    },
+    {
+     "name": "Produktionslyftet",
+     "sub": "Pågående projekt",
+     "status": "Deltar"
+    }
+   ]
+  },
+  {
+   "key": "helsingborgs-plast",
+   "name": "Helsingborgs Plastteknik AB",
+   "status": "publish",
+   "kommun": "Helsingborg",
+   "city": "Helsingborg",
+   "industry": "Plastteknik",
+   "org_nr": "556978-8008",
+   "address": "Formgatan 15",
+   "postcode": "252 25",
+   "phone": "042-700 80 90",
+   "website": "https://www.hbgplast.example",
+   "employees": 37,
+   "description": "Sprutgjutning och formverktyg i plast för fordons- och medicinteknikindustri.",
+   "notes": "",
+   "main": "hanna.olsson",
+   "needs": [
+    {
+     "text": "Minska materialspill i sprutgjutning",
+     "amne": "Hållbarhet",
+     "vis": "Alla medlemmar"
+    },
+    {
+     "text": "Cybersäkerhet i produktionsnätverket",
+     "amne": "Cybersäkerhet",
+     "vis": "Endast IUC Syd"
+    }
+   ],
+   "participation": [
+    {
+     "name": "Hållbarhetsforum",
+     "sub": "Genomfört i september",
+     "status": "Deltog"
+    },
+    {
+     "name": "Webinar: Cybersäkerhet",
+     "sub": "22 okt · Ungapped",
+     "status": "Anmäld"
+    }
+   ]
+  },
+  {
+   "key": "eslov-svets",
+   "name": "Eslövs Svets & Montage AB",
+   "status": "publish",
+   "kommun": "Eslöv",
+   "city": "Eslöv",
+   "industry": "Svetsning",
+   "org_nr": "556089-9009",
+   "address": "Svetsvägen 5",
+   "postcode": "241 38",
+   "phone": "0413-800 90",
+   "website": "https://www.eslovsvets.example",
+   "employees": 22,
+   "description": "Svets- och monteringsarbeten för lantbruks- och entreprenadmaskiner.",
+   "notes": "",
+   "main": "mats.holmgren",
+   "needs": [
+    {
+     "text": "Certifiera fler svetsare",
+     "amne": "Kompetensutveckling",
+     "vis": "Alla medlemmar"
+    }
+   ],
+   "participation": [
+    {
+     "name": "Workshop: Effektivisering och 5S",
+     "sub": "5 nov · Ungapped",
+     "status": "Anmäld"
+    }
+   ]
+  },
+  {
+   "key": "kristianstad-elektronik",
+   "name": "Kristianstad Elektronik AB",
+   "status": "pending",
+   "kommun": "Kristianstad",
+   "city": "Kristianstad",
+   "industry": "Elektronik",
+   "org_nr": "556190-1010",
+   "address": "Kretsvägen 1",
+   "postcode": "291 33",
+   "phone": "044-900 10 20",
+   "website": "https://www.kristianstadelektronik.example",
+   "employees": 26,
+   "description": "Kortserietillverkning av kretskort och elektronikmoduler.",
+   "notes": "",
+   "main": "viktor.sandell",
+   "needs": [
+    {
+     "text": "Hitta underleverantör för lödning",
+     "amne": "Utveckla affären",
+     "vis": "Endast IUC Syd"
+    }
+   ],
+   "participation": []
+  },
+  {
+   "key": "hassleholm-maskin",
+   "name": "Hässleholms Maskinverkstad AB",
+   "status": "publish",
+   "kommun": "Hässleholm",
+   "city": "Hässleholm",
+   "industry": "Maskinindustri",
+   "org_nr": "556201-1111",
+   "address": "Maskingatan 7",
+   "postcode": "281 31",
+   "phone": "0451-100 11 12",
+   "website": "https://www.hassleholmsmaskin.example",
+   "employees": 41,
+   "description": "Underhåll, reparation och nytillverkning av maskindelar för skogs- och livsmedelsindustri.",
+   "notes": "",
+   "main": "ingrid.falk",
+   "needs": [
+    {
+     "text": "Förebyggande underhåll med sensorer",
+     "amne": "Automation",
+     "vis": "Alla medlemmar"
+    },
+    {
+     "text": "Attrahera unga till verkstadsyrken",
+     "amne": "Attrahera framtida medarbetare",
+     "vis": "Alla medlemmar"
+    }
+   ],
+   "participation": [
+    {
+     "name": "Produktionslyftet",
+     "sub": "Pågående projekt",
+     "status": "Deltar"
+    },
+    {
+     "name": "Hållbarhetsforum",
+     "sub": "Genomfört i september",
+     "status": "Deltog"
+    }
+   ]
+  },
+  {
+   "key": "landskrona-svets",
+   "name": "Landskrona Rörsvets AB",
+   "status": "pending",
+   "kommun": "Landskrona",
+   "city": "Landskrona",
+   "industry": "Svetsning",
+   "org_nr": "556312-1212",
+   "address": "Rörgatan 20",
+   "postcode": "261 44",
+   "phone": "0418-200 12 13",
+   "website": "https://www.landskronarorsvets.example",
+   "employees": 12,
+   "description": "Rörsvetsning och prefabricering av rörsystem för processindustrin.",
+   "notes": "Ansökan inkom via webben, behöver kontrolleras mot bolagsverket.",
+   "main": "fredrik.ward",
+   "needs": [
+    {
+     "text": "Utbilda svetsare i orbitalsvetsning",
+     "amne": "Kompetensutveckling",
+     "vis": "Endast IUC Syd"
+    }
+   ],
+   "participation": []
+  },
+  {
+   "key": "malmo-verktyg",
+   "name": "Malmö Precisionsverktyg AB",
+   "status": "publish",
+   "kommun": "Malmö",
+   "city": "Malmö",
+   "industry": "Verktygstillverkning",
+   "org_nr": "556423-1313",
+   "address": "Hamnvägen 30",
+   "postcode": "211 19",
+   "phone": "040-300 13 14",
+   "website": "https://www.malmoprecision.example",
+   "employees": 31,
+   "description": "Precisionsverktyg i hårdmetall för skärande bearbetning.",
+   "notes": "",
+   "main": "gustav.lindgren",
+   "needs": [
+    {
+     "text": "Energieffektivisera produktionen",
+     "amne": "Hållbarhet",
+     "vis": "Alla medlemmar"
+    },
+    {
+     "text": "Hitta kunder inom medicinteknik",
+     "amne": "Utveckla affären",
+     "vis": "Alla medlemmar"
+    }
+   ],
+   "participation": [
+    {
+     "name": "Hållbarhetsforum",
+     "sub": "Genomfört i september",
+     "status": "Deltog"
+    },
+    {
+     "name": "Nätverksträff: Automation",
+     "sub": "14 okt · Anmälan via Ungapped",
+     "status": "Anmäld"
+    }
+   ]
+  },
+  {
+   "key": "lundagard-mekanik",
+   "name": "Lundagård Mekanik AB",
+   "status": "publish",
+   "kommun": "Lund",
+   "city": "Lund",
+   "industry": "Legotillverkning",
+   "org_nr": "556534-1414",
+   "address": "Mekanikvägen 11",
+   "postcode": "224 66",
+   "phone": "046-400 14 15",
+   "website": "https://www.lundagardmekanik.example",
+   "employees": 16,
+   "description": "Legotillverkning av mekaniska komponenter och prototyper i korta serier.",
+   "notes": "",
+   "main": "anders.wallin",
+   "needs": [
+    {
+     "text": "Införa 5S i hela verkstaden",
+     "amne": "Effektiviseringar inom produktion",
+     "vis": "Alla medlemmar"
+    }
+   ],
+   "participation": [
+    {
+     "name": "Workshop: Effektivisering och 5S",
+     "sub": "5 nov · Ungapped",
+     "status": "Anmäld"
+    }
+   ]
+  },
+  {
+   "key": "kristianstad-plast",
+   "name": "Nordöst Plast AB",
+   "status": "pending",
+   "kommun": "Kristianstad",
+   "city": "Kristianstad",
+   "industry": "Plastteknik",
+   "org_nr": "556645-1515",
+   "address": "Plastvägen 8",
+   "postcode": "291 39",
+   "phone": "044-500 15 16",
+   "website": "https://www.nordostplast.example",
+   "employees": 23,
+   "description": "Extrudering och bearbetning av tekniska plaster.",
+   "notes": "",
+   "main": "petra.hedlund",
+   "needs": [
+    {
+     "text": "Hitta återvunnen råvara av hög kvalitet",
+     "amne": "Hållbarhet",
+     "vis": "Endast IUC Syd"
+    }
+   ],
+   "participation": []
+  },
+  {
+   "key": "lomma-fordon",
+   "name": "Lomma Fordonsteknik AB",
+   "status": "publish",
+   "kommun": "Lomma",
+   "city": "Lomma",
+   "industry": "Fordonsindustri",
+   "org_nr": "556543-9916",
+   "address": "Verkstadsgatan 54",
+   "postcode": "288 22",
+   "phone": "040-504 93 16",
+   "website": "https://www.lomma-fordonsteknik.example",
+   "employees": 41,
+   "description": "Lomma Fordonsteknik i Lomma med fokus på fordonsindustri och tillverkning för kunder inom industrin i Skåne.",
+   "notes": "",
+   "main": "daniel.rosen",
+   "needs": [
+    {
+     "text": "Automatisera lackeringen",
+     "amne": "Automation",
+     "vis": "Alla medlemmar"
+    },
+    {
+     "text": "Ta fram plan för generationsskifte i produktionen",
+     "amne": "Kompetensutveckling",
+     "vis": "Alla medlemmar"
+    },
+    {
+     "text": "Införa produktionsuppföljning i realtid",
+     "amne": "Effektiviseringar inom produktion",
+     "vis": "Alla medlemmar"
+    }
+   ],
+   "participation": [
+    {
+     "name": "Produktionslyftet",
+     "sub": "Pågående projekt",
+     "status": "Deltar"
+    },
+    {
+     "name": "Kickstart AI",
+     "sub": "Anmälan via Ungapped",
+     "status": "Anmäld"
+    }
+   ]
+  },
+  {
+   "key": "simrishamn-livs",
+   "name": "Österlen Livsmedelsmaskiner AB",
+   "status": "publish",
+   "kommun": "Simrishamn",
+   "city": "Simrishamn",
+   "industry": "Maskinindustri",
+   "org_nr": "556433-7061",
+   "address": "Smedjegatan 28",
+   "postcode": "238 79",
+   "phone": "040-147 81 27",
+   "website": "https://www.osterlen-livsmedelsmaskiner.example",
+   "employees": 14,
+   "description": "Österlen Livsmedelsmaskiner i Simrishamn med fokus på maskinindustri och tillverkning för kunder inom industrin i Skåne.",
+   "notes": "",
+   "main": "per.akesson",
+   "needs": [
+    {
+     "text": "Stärka cybersäkerheten i produktionsnätet",
+     "amne": "Cybersäkerhet",
+     "vis": "Alla medlemmar"
+    },
+    {
+     "text": "Ta fram plan för generationsskifte i produktionen",
+     "amne": "Kompetensutveckling",
+     "vis": "Endast IUC Syd"
+    },
+    {
+     "text": "Minska energiförbrukningen i produktionen",
+     "amne": "Hållbarhet",
+     "vis": "Endast IUC Syd"
+    }
+   ],
+   "participation": [
+    {
+     "name": "Kickstart AI",
+     "sub": "Anmälan via Ungapped",
+     "status": "Anmäld"
+    },
+    {
+     "name": "Nätverksträff: Automation",
+     "sub": "14 okt · Anmälan via Ungapped",
+     "status": "Anmäld"
+    },
+    {
+     "name": "Produktionslyftet",
+     "sub": "Pågående projekt",
+     "status": "Deltar"
+    }
+   ]
+  },
+  {
+   "key": "svedala-gjuteri",
+   "name": "Svedala Gjuteri & Mekanik AB",
+   "status": "pending",
+   "kommun": "Svedala",
+   "city": "Svedala",
+   "industry": "Gjutning",
+   "org_nr": "556785-2073",
+   "address": "Bruksgatan 25",
+   "postcode": "258 41",
+   "phone": "040-895 50 69",
+   "website": "https://www.svedala-gjuteri---mekanik.example",
+   "employees": 18,
+   "description": "Svedala Gjuteri & Mekanik i Svedala med fokus på gjutning och tillverkning för kunder inom industrin i Skåne.",
+   "notes": "",
+   "main": "",
+   "needs": [
+    {
+     "text": "Införa produktionsuppföljning i realtid",
+     "amne": "Effektiviseringar inom produktion",
+     "vis": "Alla medlemmar"
+    },
+    {
+     "text": "Rekrytera operatörer med CNC-vana",
+     "amne": "Attrahera framtida medarbetare",
+     "vis": "Endast IUC Syd"
+    },
+    {
+     "text": "Kvalitetssäkra leveranser med visionssystem",
+     "amne": "Automation",
+     "vis": "Alla medlemmar"
+    }
+   ],
+   "participation": []
+  },
+  {
+   "key": "angelholm-flyg",
+   "name": "Ängelholm Flygkomponenter AB",
+   "status": "publish",
+   "kommun": "Ängelholm",
+   "city": "Ängelholm",
+   "industry": "Flyg och rymd",
+   "org_nr": "556313-8687",
+   "address": "Bruksgatan 6",
+   "postcode": "231 44",
+   "phone": "040-708 73 84",
+   "website": "https://www.angelholm-flygkomponenter.example",
+   "employees": 64,
+   "description": "Ängelholm Flygkomponenter i Ängelholm med fokus på flyg och rymd och tillverkning för kunder inom industrin i Skåne.",
+   "notes": "",
+   "main": "annika.engstrom",
+   "needs": [
+    {
+     "text": "Samarbeta kring gemensamma inköp",
+     "amne": "Utveckla affären",
+     "vis": "Endast IUC Syd"
+    },
+    {
+     "text": "Rekrytera operatörer med CNC-vana",
+     "amne": "Attrahera framtida medarbetare",
+     "vis": "Endast IUC Syd"
+    },
+    {
+     "text": "Automatisera lackeringen",
+     "amne": "Automation",
+     "vis": "Alla medlemmar"
+    }
+   ],
+   "participation": [
+    {
+     "name": "Hållbarhetsspåret",
+     "sub": "Genomfört i september",
+     "status": "Deltog"
+    },
+    {
+     "name": "Workshop: Cybersäkerhet",
+     "sub": "22 okt · Ungapped",
+     "status": "Anmäld"
+    },
+    {
+     "name": "Nätverksträff: Automation",
+     "sub": "14 okt · Anmälan via Ungapped",
+     "status": "Anmäld"
+    }
+   ]
+  },
+  {
+   "key": "sodersslatt-kabel",
+   "name": "Söderslätt Kabelsystem AB",
+   "status": "publish",
+   "kommun": "Vellinge",
+   "city": "Vellinge",
+   "industry": "Elektronik",
+   "org_nr": "556565-4839",
+   "address": "Verkstadsgatan 12",
+   "postcode": "277 61",
+   "phone": "040-507 60 73",
+   "website": "https://www.soderslatt-kabelsystem.example",
+   "employees": 88,
+   "description": "Söderslätt Kabelsystem i Vellinge med fokus på elektronik och tillverkning för kunder inom industrin i Skåne.",
+   "notes": "",
+   "main": "emma.eliasson",
+   "needs": [
+    {
+     "text": "Minska energiförbrukningen i produktionen",
+     "amne": "Hållbarhet",
+     "vis": "Endast IUC Syd"
+    },
+    {
+     "text": "Hitta nya kunder i Danmark och Tyskland",
+     "amne": "Utveckla affären",
+     "vis": "Alla medlemmar"
+    }
+   ],
+   "participation": [
+    {
+     "name": "Workshop: Cybersäkerhet",
+     "sub": "22 okt · Ungapped",
+     "status": "Anmäld"
+    },
+    {
+     "name": "Nätverksträff: Automation",
+     "sub": "14 okt · Anmälan via Ungapped",
+     "status": "Anmäld"
+    },
+    {
+     "name": "Nätverksträff: Kompetensförsörjning",
+     "sub": "5 nov · Ungapped",
+     "status": "Anmäld"
+    }
+   ]
+  },
+  {
+   "key": "hoor-packaging",
+   "name": "Höör Förpackningsteknik AB",
+   "status": "publish",
+   "kommun": "Höör",
+   "city": "Höör",
+   "industry": "Plastteknik",
+   "org_nr": "556496-8704",
+   "address": "Smedjegatan 20",
+   "postcode": "220 28",
+   "phone": "040-951 85 33",
+   "website": "https://www.hoor-forpackningsteknik.example",
+   "employees": 57,
+   "description": "Höör Förpackningsteknik i Höör med fokus på plastteknik och tillverkning för kunder inom industrin i Skåne.",
+   "notes": "",
+   "main": "per.mansson",
+   "needs": [
+    {
+     "text": "Utbilda personalen i grundläggande automation",
+     "amne": "Kompetensutveckling",
+     "vis": "Alla medlemmar"
+    },
+    {
+     "text": "Kvalitetssäkra leveranser med visionssystem",
+     "amne": "Automation",
+     "vis": "Alla medlemmar"
+    },
+    {
+     "text": "Samarbeta kring gemensamma inköp",
+     "amne": "Utveckla affären",
+     "vis": "Endast IUC Syd"
+    }
+   ],
+   "participation": [
+    {
+     "name": "Hållbarhetsspåret",
+     "sub": "Genomfört i september",
+     "status": "Deltog"
+    },
+    {
+     "name": "Produktionslyftet",
+     "sub": "Pågående projekt",
+     "status": "Deltar"
+    },
+    {
+     "name": "Workshop: Cybersäkerhet",
+     "sub": "22 okt · Ungapped",
+     "status": "Anmäld"
+    }
+   ]
+  },
+  {
+   "key": "staffanstorp-cnc",
+   "name": "Staffanstorp CNC-Bearbetning AB",
+   "status": "publish",
+   "kommun": "Staffanstorp",
+   "city": "Staffanstorp",
+   "industry": "Verkstadsindustri",
+   "org_nr": "556853-8804",
+   "address": "Hamnvägen 36",
+   "postcode": "232 56",
+   "phone": "040-204 10 82",
+   "website": "https://www.staffanstorp-cnc-bearbetning.example",
+   "employees": 120,
+   "description": "Staffanstorp CNC-Bearbetning i Staffanstorp med fokus på verkstadsindustri och tillverkning för kunder inom industrin i Skåne.",
+   "notes": "",
+   "main": "josefin.torstensson",
+   "needs": [
+    {
+     "text": "Rekrytera operatörer med CNC-vana",
+     "amne": "Attrahera framtida medarbetare",
+     "vis": "Alla medlemmar"
+    }
+   ],
+   "participation": [
+    {
+     "name": "Workshop: Cybersäkerhet",
+     "sub": "22 okt · Ungapped",
+     "status": "Anmäld"
+    },
+    {
+     "name": "Kickstart AI",
+     "sub": "Anmälan via Ungapped",
+     "status": "Anmäld"
+    },
+    {
+     "name": "Nätverksträff: Automation",
+     "sub": "14 okt · Anmälan via Ungapped",
+     "status": "Anmäld"
+    }
+   ]
+  },
+  {
+   "key": "kavlinge-sensor",
+   "name": "Kävlinge Sensorteknik AB",
+   "status": "pending",
+   "kommun": "Kävlinge",
+   "city": "Kävlinge",
+   "industry": "Elektronik",
+   "org_nr": "556706-3467",
+   "address": "Industrivägen 15",
+   "postcode": "287 56",
+   "phone": "040-590 98 30",
+   "website": "https://www.kavlinge-sensorteknik.example",
+   "employees": 18,
+   "description": "Kävlinge Sensorteknik i Kävlinge med fokus på elektronik och tillverkning för kunder inom industrin i Skåne.",
+   "notes": "",
+   "main": "",
+   "needs": [
+    {
+     "text": "Ta fram plan för generationsskifte i produktionen",
+     "amne": "Kompetensutveckling",
+     "vis": "Alla medlemmar"
+    },
+    {
+     "text": "Automatisera lackeringen",
+     "amne": "Automation",
+     "vis": "Endast IUC Syd"
+    },
+    {
+     "text": "Minska ställtider mellan serier",
+     "amne": "Effektiviseringar inom produktion",
+     "vis": "Alla medlemmar"
+    }
+   ],
+   "participation": []
+  },
+  {
+   "key": "osby-tra",
+   "name": "Osby Träindustri AB",
+   "status": "publish",
+   "kommun": "Osby",
+   "city": "Osby",
+   "industry": "Träindustri",
+   "org_nr": "556537-3484",
+   "address": "Smedjegatan 32",
+   "postcode": "253 34",
+   "phone": "040-464 13 13",
+   "website": "https://www.osby-traindustri.example",
+   "employees": 120,
+   "description": "Osby Träindustri i Osby med fokus på träindustri och tillverkning för kunder inom industrin i Skåne.",
+   "notes": "",
+   "main": "emma.persson",
+   "needs": [
+    {
+     "text": "Kartlägga möjligheter till cirkulär materialhantering",
+     "amne": "Hållbarhet",
+     "vis": "Alla medlemmar"
+    },
+    {
+     "text": "Utbilda personalen i grundläggande automation",
+     "amne": "Kompetensutveckling",
+     "vis": "Alla medlemmar"
+    }
+   ],
+   "participation": [
+    {
+     "name": "Produktionslyftet",
+     "sub": "Pågående projekt",
+     "status": "Deltar"
+    }
+   ]
+  },
+  {
+   "key": "perstorp-kemi",
+   "name": "Perstorp Processteknik AB",
+   "status": "pending",
+   "kommun": "Perstorp",
+   "city": "Perstorp",
+   "industry": "Processindustri",
+   "org_nr": "556835-7388",
+   "address": "Verkstadsgatan 60",
+   "postcode": "269 35",
+   "phone": "040-918 92 20",
+   "website": "https://www.perstorp-processteknik.example",
+   "employees": 64,
+   "description": "Perstorp Processteknik i Perstorp med fokus på processindustri och tillverkning för kunder inom industrin i Skåne.",
+   "notes": "",
+   "main": "",
+   "needs": [
+    {
+     "text": "Hitta nya kunder i Danmark och Tyskland",
+     "amne": "Utveckla affären",
+     "vis": "Endast IUC Syd"
+    }
+   ],
+   "participation": []
+  },
+  {
+   "key": "tomelilla-metall",
+   "name": "Tomelilla Metallvaror AB",
+   "status": "publish",
+   "kommun": "Tomelilla",
+   "city": "Tomelilla",
+   "industry": "Plåtbearbetning",
+   "org_nr": "556315-2049",
+   "address": "Bruksgatan 44",
+   "postcode": "264 29",
+   "phone": "040-925 93 28",
+   "website": "https://www.tomelilla-metallvaror.example",
+   "employees": 88,
+   "description": "Tomelilla Metallvaror i Tomelilla med fokus på plåtbearbetning och tillverkning för kunder inom industrin i Skåne.",
+   "notes": "",
+   "main": "",
+   "needs": [
+    {
+     "text": "Minska energiförbrukningen i produktionen",
+     "amne": "Hållbarhet",
+     "vis": "Endast IUC Syd"
+    },
+    {
+     "text": "Automatisera lackeringen",
+     "amne": "Automation",
+     "vis": "Endast IUC Syd"
+    },
+    {
+     "text": "Samarbeta kring gemensamma inköp",
+     "amne": "Utveckla affären",
+     "vis": "Alla medlemmar"
+    }
+   ],
+   "participation": [
+    {
+     "name": "Nätverksträff: Kompetensförsörjning",
+     "sub": "5 nov · Ungapped",
+     "status": "Anmäld"
+    },
+    {
+     "name": "Kickstart AI",
+     "sub": "Anmälan via Ungapped",
+     "status": "Anmäld"
+    },
+    {
+     "name": "Workshop: Cybersäkerhet",
+     "sub": "22 okt · Ungapped",
+     "status": "Anmäld"
+    }
+   ]
+  },
+  {
+   "key": "bromolla-robot",
+   "name": "Broby Robotik & Montage AB",
+   "status": "publish",
+   "kommun": "Östra Göinge",
+   "city": "Broby",
+   "industry": "Automation",
+   "org_nr": "556463-1701",
+   "address": "Smedjegatan 36",
+   "postcode": "273 26",
+   "phone": "040-882 85 51",
+   "website": "https://www.broby-robotik---montage.example",
+   "employees": 9,
+   "description": "Broby Robotik & Montage i Broby med fokus på automation och tillverkning för kunder inom industrin i Skåne.",
+   "notes": "",
+   "main": "henrik.qvist",
+   "needs": [
+    {
+     "text": "Utbilda personalen i grundläggande automation",
+     "amne": "Kompetensutveckling",
+     "vis": "Endast IUC Syd"
+    },
+    {
+     "text": "Kartlägga möjligheter till cirkulär materialhantering",
+     "amne": "Hållbarhet",
+     "vis": "Alla medlemmar"
+    },
+    {
+     "text": "Kvalitetssäkra leveranser med visionssystem",
+     "amne": "Automation",
+     "vis": "Endast IUC Syd"
+    }
+   ],
+   "participation": [
+    {
+     "name": "Hållbarhetsspåret",
+     "sub": "Genomfört i september",
+     "status": "Deltog"
+    }
+   ]
+  },
+  {
+   "key": "sjobo-lack",
+   "name": "Sjöbo Industrilackering AB",
+   "status": "pending",
+   "kommun": "Sjöbo",
+   "city": "Sjöbo",
+   "industry": "Ytbehandling",
+   "org_nr": "556608-1508",
+   "address": "Fabriksgatan 19",
+   "postcode": "225 22",
+   "phone": "040-673 17 41",
+   "website": "https://www.sjobo-industrilackering.example",
+   "employees": 88,
+   "description": "Sjöbo Industrilackering i Sjöbo med fokus på ytbehandling och tillverkning för kunder inom industrin i Skåne.",
+   "notes": "",
+   "main": "",
+   "needs": [
+    {
+     "text": "Ta fram plan för generationsskifte i produktionen",
+     "amne": "Kompetensutveckling",
+     "vis": "Alla medlemmar"
+    },
+    {
+     "text": "Automatisera lackeringen",
+     "amne": "Automation",
+     "vis": "Alla medlemmar"
+    }
+   ],
+   "participation": []
+  },
+  {
+   "key": "vellinge-3d",
+   "name": "Vellinge Additiv Tillverkning AB",
+   "status": "publish",
+   "kommun": "Vellinge",
+   "city": "Vellinge",
+   "industry": "Additiv tillverkning",
+   "org_nr": "556575-8745",
+   "address": "Hamnvägen 28",
+   "postcode": "235 60",
+   "phone": "040-672 35 67",
+   "website": "https://www.vellinge-additiv-tillverkning.example",
+   "employees": 64,
+   "description": "Vellinge Additiv Tillverkning i Vellinge med fokus på additiv tillverkning och tillverkning för kunder inom industrin i Skåne.",
+   "notes": "",
+   "main": "andreas.hermansson",
+   "needs": [
+    {
+     "text": "Rekrytera operatörer med CNC-vana",
+     "amne": "Attrahera framtida medarbetare",
+     "vis": "Alla medlemmar"
+    },
+    {
+     "text": "Samarbeta kring gemensamma inköp",
+     "amne": "Utveckla affären",
+     "vis": "Alla medlemmar"
+    }
+   ],
+   "participation": [
+    {
+     "name": "Kickstart AI",
+     "sub": "Anmälan via Ungapped",
+     "status": "Anmäld"
+    }
+   ]
+  },
+  {
+   "key": "landskrona-logistik",
+   "name": "Landskrona Logistikteknik AB",
+   "status": "publish",
+   "kommun": "Landskrona",
+   "city": "Landskrona",
+   "industry": "Logistik",
+   "org_nr": "556696-7994",
+   "address": "Företagsvägen 34",
+   "postcode": "271 53",
+   "phone": "040-783 38 30",
+   "website": "https://www.landskrona-logistikteknik.example",
+   "employees": 57,
+   "description": "Landskrona Logistikteknik i Landskrona med fokus på logistik och tillverkning för kunder inom industrin i Skåne.",
+   "notes": "",
+   "main": "joakim.andersson",
+   "needs": [
+    {
+     "text": "Utbilda personalen i grundläggande automation",
+     "amne": "Kompetensutveckling",
+     "vis": "Alla medlemmar"
+    }
+   ],
+   "participation": [
+    {
+     "name": "Nätverksträff: Kompetensförsörjning",
+     "sub": "5 nov · Ungapped",
+     "status": "Anmäld"
+    }
+   ]
+  }
+ ],
+ "users": [
+  {
+   "login": "anna.lindqvist",
+   "name": "Anna Lindqvist",
+   "email": "anna.lindqvist@hoglunds-verkstad.example",
+   "title": "VD",
+   "company": "hoglunds",
+   "status": "approved",
+   "registered_days_ago": 60,
+   "consent": true,
+   "phone": "040-000 00 01"
+  },
+  {
+   "login": "peter.ek",
+   "name": "Peter Ek",
+   "email": "peter.ek@hoglunds-verkstad.example",
+   "title": "Produktionschef",
+   "company": "hoglunds",
+   "status": "approved",
+   "registered_days_ago": 55,
+   "consent": true,
+   "phone": ""
+  },
+  {
+   "login": "sara.holm",
+   "name": "Sara Holm",
+   "email": "sara.holm@hoglunds-verkstad.example",
+   "title": "HR-ansvarig",
+   "company": "hoglunds",
+   "status": "pending",
+   "registered_days_ago": 2,
+   "consent": false,
+   "phone": ""
+  },
+  {
+   "login": "erik.sandberg",
+   "name": "Erik Sandberg",
+   "email": "erik.sandberg@nordisk-platteknik.example",
+   "title": "Produktionschef",
+   "company": "nordisk",
+   "status": "approved",
+   "registered_days_ago": 50,
+   "consent": true,
+   "phone": "046-100 20 31"
+  },
+  {
+   "login": "karin.dahl",
+   "name": "Karin Dahl",
+   "email": "karin.dahl@nordisk-platteknik.example",
+   "title": "Inköpschef",
+   "company": "nordisk",
+   "status": "pending",
+   "registered_days_ago": 1,
+   "consent": false,
+   "phone": ""
+  },
+  {
+   "login": "nils.ahlgren",
+   "name": "Nils Ahlgren",
+   "email": "nils.ahlgren@nordisk-platteknik.example",
+   "title": "Konstruktör",
+   "company": "nordisk",
+   "status": "approved",
+   "registered_days_ago": 33,
+   "consent": true,
+   "phone": ""
+  },
+  {
+   "login": "lena.hakansson",
+   "name": "Lena Håkansson",
+   "email": "lena.hakansson@sydstal.example",
+   "title": "VD",
+   "company": "sydstal",
+   "status": "approved",
+   "registered_days_ago": 45,
+   "consent": true,
+   "phone": "042-200 30 41"
+  },
+  {
+   "login": "tomas.wiberg",
+   "name": "Tomas Wiberg",
+   "email": "tomas.wiberg@sydstal.example",
+   "title": "Kvalitetschef",
+   "company": "sydstal",
+   "status": "pending",
+   "registered_days_ago": 3,
+   "consent": false,
+   "phone": ""
+  },
+  {
+   "login": "rita.sjoberg",
+   "name": "Rita Sjöberg",
+   "email": "rita.sjoberg@sydstal.example",
+   "title": "Ekonomiansvarig",
+   "company": "sydstal",
+   "status": "approved",
+   "registered_days_ago": 44,
+   "consent": false,
+   "phone": ""
+  },
+  {
+   "login": "maria.bergstrom",
+   "name": "Maria Bergström",
+   "email": "maria.bergstrom@ystadpump.example",
+   "title": "Teknisk chef",
+   "company": "ystad",
+   "status": "approved",
+   "registered_days_ago": 40,
+   "consent": true,
+   "phone": "0411-300 41"
+  },
+  {
+   "login": "olof.berg",
+   "name": "Olof Berg",
+   "email": "olof.berg@ystadpump.example",
+   "title": "Produktionsingenjör",
+   "company": "ystad",
+   "status": "pending",
+   "registered_days_ago": 0,
+   "consent": false,
+   "phone": ""
+  },
+  {
+   "login": "emil.strand",
+   "name": "Emil Strand",
+   "email": "emil.strand@ystadpump.example",
+   "title": "IT-ansvarig",
+   "company": "ystad",
+   "status": "approved",
+   "registered_days_ago": 38,
+   "consent": true,
+   "phone": ""
+  },
+  {
+   "login": "johan.nilsson",
+   "name": "Johan Nilsson",
+   "email": "johan.nilsson@trelleborgverktyg.example",
+   "title": "Produktionsansvarig",
+   "company": "trelleborg",
+   "status": "approved",
+   "registered_days_ago": 36,
+   "consent": true,
+   "phone": "0410-400 51"
+  },
+  {
+   "login": "ida.persson",
+   "name": "Ida Persson",
+   "email": "ida.persson@trelleborgverktyg.example",
+   "title": "Konstruktör",
+   "company": "trelleborg",
+   "status": "approved",
+   "registered_days_ago": 30,
+   "consent": true,
+   "phone": ""
+  },
+  {
+   "login": "bo.karlsson",
+   "name": "Bo Karlsson",
+   "email": "bo.karlsson@skaneyt.example",
+   "title": "Säljare",
+   "company": "skane-ytbehandling",
+   "status": "blocked",
+   "registered_days_ago": 40,
+   "consent": false,
+   "phone": ""
+  },
+  {
+   "login": "karl.nordin",
+   "name": "Karl Nordin",
+   "email": "karl.nordin@lundsautomation.example",
+   "title": "VD",
+   "company": "lunds-automation",
+   "status": "approved",
+   "registered_days_ago": 70,
+   "consent": true,
+   "phone": "046-600 70 81"
+  },
+  {
+   "login": "emma.lund",
+   "name": "Emma Lund",
+   "email": "emma.lund@lundsautomation.example",
+   "title": "Projektledare",
+   "company": "lunds-automation",
+   "status": "approved",
+   "registered_days_ago": 65,
+   "consent": true,
+   "phone": ""
+  },
+  {
+   "login": "viktor.aberg",
+   "name": "Viktor Åberg",
+   "email": "viktor.aberg@lundsautomation.example",
+   "title": "Mjukvaruutvecklare",
+   "company": "lunds-automation",
+   "status": "approved",
+   "registered_days_ago": 20,
+   "consent": false,
+   "phone": ""
+  },
+  {
+   "login": "hanna.olsson",
+   "name": "Hanna Olsson",
+   "email": "hanna.olsson@hbgplast.example",
+   "title": "Produktionschef",
+   "company": "helsingborgs-plast",
+   "status": "approved",
+   "registered_days_ago": 48,
+   "consent": true,
+   "phone": "042-700 80 91"
+  },
+  {
+   "login": "jonas.berglund",
+   "name": "Jonas Berglund",
+   "email": "jonas.berglund@hbgplast.example",
+   "title": "Inköpare",
+   "company": "helsingborgs-plast",
+   "status": "approved",
+   "registered_days_ago": 47,
+   "consent": true,
+   "phone": ""
+  },
+  {
+   "login": "mats.holmgren",
+   "name": "Mats Holmgren",
+   "email": "mats.holmgren@eslovsvets.example",
+   "title": "VD",
+   "company": "eslov-svets",
+   "status": "approved",
+   "registered_days_ago": 52,
+   "consent": true,
+   "phone": "0413-800 91"
+  },
+  {
+   "login": "lisa.sjogren",
+   "name": "Lisa Sjögren",
+   "email": "lisa.sjogren@eslovsvets.example",
+   "title": "Svetsansvarig",
+   "company": "eslov-svets",
+   "status": "approved",
+   "registered_days_ago": 51,
+   "consent": true,
+   "phone": ""
+  },
+  {
+   "login": "viktor.sandell",
+   "name": "Viktor Sandell",
+   "email": "viktor.sandell@kristianstadelektronik.example",
+   "title": "VD",
+   "company": "kristianstad-elektronik",
+   "status": "pending",
+   "registered_days_ago": 4,
+   "consent": false,
+   "phone": ""
+  },
+  {
+   "login": "ingrid.falk",
+   "name": "Ingrid Falk",
+   "email": "ingrid.falk@hassleholmsmaskin.example",
+   "title": "VD",
+   "company": "hassleholm-maskin",
+   "status": "approved",
+   "registered_days_ago": 58,
+   "consent": true,
+   "phone": "0451-100 11 13"
+  },
+  {
+   "login": "oskar.nyberg",
+   "name": "Oskar Nyberg",
+   "email": "oskar.nyberg@hassleholmsmaskin.example",
+   "title": "Servicetekniker",
+   "company": "hassleholm-maskin",
+   "status": "approved",
+   "registered_days_ago": 57,
+   "consent": false,
+   "phone": ""
+  },
+  {
+   "login": "fredrik.ward",
+   "name": "Fredrik Ward",
+   "email": "fredrik.ward@landskronarorsvets.example",
+   "title": "VD",
+   "company": "landskrona-svets",
+   "status": "pending",
+   "registered_days_ago": 5,
+   "consent": false,
+   "phone": ""
+  },
+  {
+   "login": "gustav.lindgren",
+   "name": "Gustav Lindgren",
+   "email": "gustav.lindgren@malmoprecision.example",
+   "title": "VD",
+   "company": "malmo-verktyg",
+   "status": "approved",
+   "registered_days_ago": 62,
+   "consent": true,
+   "phone": "040-300 13 15"
+  },
+  {
+   "login": "sofia.axelsson",
+   "name": "Sofia Axelsson",
+   "email": "sofia.axelsson@malmoprecision.example",
+   "title": "Ekonomichef",
+   "company": "malmo-verktyg",
+   "status": "approved",
+   "registered_days_ago": 61,
+   "consent": true,
+   "phone": ""
+  },
+  {
+   "login": "anders.wallin",
+   "name": "Anders Wallin",
+   "email": "anders.wallin@lundagardmekanik.example",
+   "title": "VD",
+   "company": "lundagard-mekanik",
+   "status": "approved",
+   "registered_days_ago": 44,
+   "consent": true,
+   "phone": "046-400 14 16"
+  },
+  {
+   "login": "clara.holst",
+   "name": "Clara Holst",
+   "email": "clara.holst@lundagardmekanik.example",
+   "title": "Produktionsplanerare",
+   "company": "lundagard-mekanik",
+   "status": "approved",
+   "registered_days_ago": 43,
+   "consent": true,
+   "phone": ""
+  },
+  {
+   "login": "petra.hedlund",
+   "name": "Petra Hedlund",
+   "email": "petra.hedlund@nordostplast.example",
+   "title": "VD",
+   "company": "kristianstad-plast",
+   "status": "pending",
+   "registered_days_ago": 6,
+   "consent": false,
+   "phone": ""
+  },
+  {
+   "login": "daniel.rosen",
+   "name": "Daniel Rosén",
+   "email": "daniel.rosen@lomma-fordonsteknik.example",
+   "title": "VD",
+   "company": "lomma-fordon",
+   "status": "approved",
+   "registered_days_ago": 106,
+   "consent": true,
+   "phone": ""
+  },
+  {
+   "login": "emma.ulriksson",
+   "name": "Emma Ulriksson",
+   "email": "emma.ulriksson@lomma-fordonsteknik.example",
+   "title": "Produktionschef",
+   "company": "lomma-fordon",
+   "status": "approved",
+   "registered_days_ago": 74,
+   "consent": true,
+   "phone": "040-504 93 84"
+  },
+  {
+   "login": "per.akesson",
+   "name": "Per Åkesson",
+   "email": "per.akesson@osterlen-livsmedelsmaskiner.example",
+   "title": "VD",
+   "company": "simrishamn-livs",
+   "status": "approved",
+   "registered_days_ago": 8,
+   "consent": true,
+   "phone": ""
+  },
+  {
+   "login": "stefan.ostberg",
+   "name": "Stefan Östberg",
+   "email": "stefan.ostberg@svedala-gjuteri---mekanik.example",
+   "title": "VD",
+   "company": "svedala-gjuteri",
+   "status": "pending",
+   "registered_days_ago": 37,
+   "consent": true,
+   "phone": ""
+  },
+  {
+   "login": "fredrik.qvist",
+   "name": "Fredrik Qvist",
+   "email": "fredrik.qvist@svedala-gjuteri---mekanik.example",
+   "title": "Kvalitetschef",
+   "company": "svedala-gjuteri",
+   "status": "pending",
+   "registered_days_ago": 97,
+   "consent": true,
+   "phone": ""
+  },
+  {
+   "login": "viktor.nyberg",
+   "name": "Viktor Nyberg",
+   "email": "viktor.nyberg@svedala-gjuteri---mekanik.example",
+   "title": "Säljchef",
+   "company": "svedala-gjuteri",
+   "status": "pending",
+   "registered_days_ago": 10,
+   "consent": true,
+   "phone": "040-895 50 81"
+  },
+  {
+   "login": "annika.engstrom",
+   "name": "Annika Engström",
+   "email": "annika.engstrom@angelholm-flygkomponenter.example",
+   "title": "VD",
+   "company": "angelholm-flyg",
+   "status": "approved",
+   "registered_days_ago": 3,
+   "consent": true,
+   "phone": "040-708 73 69"
+  },
+  {
+   "login": "elin.torstensson",
+   "name": "Elin Torstensson",
+   "email": "elin.torstensson@angelholm-flygkomponenter.example",
+   "title": "Produktionschef",
+   "company": "angelholm-flyg",
+   "status": "approved",
+   "registered_days_ago": 28,
+   "consent": true,
+   "phone": ""
+  },
+  {
+   "login": "emma.eliasson",
+   "name": "Emma Eliasson",
+   "email": "emma.eliasson@soderslatt-kabelsystem.example",
+   "title": "VD",
+   "company": "sodersslatt-kabel",
+   "status": "approved",
+   "registered_days_ago": 20,
+   "consent": true,
+   "phone": ""
+  },
+  {
+   "login": "per.mansson",
+   "name": "Per Månsson",
+   "email": "per.mansson@hoor-forpackningsteknik.example",
+   "title": "VD",
+   "company": "hoor-packaging",
+   "status": "approved",
+   "registered_days_ago": 51,
+   "consent": true,
+   "phone": "040-951 85 23"
+  },
+  {
+   "login": "mikael.bergstrom",
+   "name": "Mikael Bergström",
+   "email": "mikael.bergstrom@hoor-forpackningsteknik.example",
+   "title": "HR-ansvarig",
+   "company": "hoor-packaging",
+   "status": "approved",
+   "registered_days_ago": 57,
+   "consent": true,
+   "phone": ""
+  },
+  {
+   "login": "josefin.torstensson",
+   "name": "Josefin Torstensson",
+   "email": "josefin.torstensson@staffanstorp-cnc-bearbetning.example",
+   "title": "VD",
+   "company": "staffanstorp-cnc",
+   "status": "approved",
+   "registered_days_ago": 16,
+   "consent": true,
+   "phone": "040-204 10 24"
+  },
+  {
+   "login": "robin.persson",
+   "name": "Robin Persson",
+   "email": "robin.persson@staffanstorp-cnc-bearbetning.example",
+   "title": "Inköpschef",
+   "company": "staffanstorp-cnc",
+   "status": "approved",
+   "registered_days_ago": 19,
+   "consent": true,
+   "phone": "040-204 10 23"
+  },
+  {
+   "login": "linnea.qvist",
+   "name": "Linnea Qvist",
+   "email": "linnea.qvist@kavlinge-sensorteknik.example",
+   "title": "VD",
+   "company": "kavlinge-sensor",
+   "status": "pending",
+   "registered_days_ago": 117,
+   "consent": true,
+   "phone": "040-590 98 31"
+  },
+  {
+   "login": "emma.rosen",
+   "name": "Emma Rosén",
+   "email": "emma.rosen@kavlinge-sensorteknik.example",
+   "title": "Projektledare",
+   "company": "kavlinge-sensor",
+   "status": "approved",
+   "registered_days_ago": 43,
+   "consent": true,
+   "phone": ""
+  },
+  {
+   "login": "gustav.hermansson",
+   "name": "Gustav Hermansson",
+   "email": "gustav.hermansson@kavlinge-sensorteknik.example",
+   "title": "HR-ansvarig",
+   "company": "kavlinge-sensor",
+   "status": "pending",
+   "registered_days_ago": 105,
+   "consent": true,
+   "phone": ""
+  },
+  {
+   "login": "emma.persson",
+   "name": "Emma Persson",
+   "email": "emma.persson@osby-traindustri.example",
+   "title": "VD",
+   "company": "osby-tra",
+   "status": "approved",
+   "registered_days_ago": 27,
+   "consent": true,
+   "phone": ""
+  },
+  {
+   "login": "stefan.carlsson",
+   "name": "Stefan Carlsson",
+   "email": "stefan.carlsson@perstorp-processteknik.example",
+   "title": "VD",
+   "company": "perstorp-kemi",
+   "status": "approved",
+   "registered_days_ago": 51,
+   "consent": true,
+   "phone": "040-918 92 69"
+  },
+  {
+   "login": "daniel.ostberg",
+   "name": "Daniel Östberg",
+   "email": "daniel.ostberg@perstorp-processteknik.example",
+   "title": "Kvalitetschef",
+   "company": "perstorp-kemi",
+   "status": "pending",
+   "registered_days_ago": 17,
+   "consent": true,
+   "phone": ""
+  },
+  {
+   "login": "helena.palm",
+   "name": "Helena Palm",
+   "email": "helena.palm@tomelilla-metallvaror.example",
+   "title": "VD",
+   "company": "tomelilla-metall",
+   "status": "pending",
+   "registered_days_ago": 4,
+   "consent": true,
+   "phone": ""
+  },
+  {
+   "login": "henrik.qvist",
+   "name": "Henrik Qvist",
+   "email": "henrik.qvist@broby-robotik---montage.example",
+   "title": "VD",
+   "company": "bromolla-robot",
+   "status": "approved",
+   "registered_days_ago": 112,
+   "consent": true,
+   "phone": ""
+  },
+  {
+   "login": "frida.andersson",
+   "name": "Frida Andersson",
+   "email": "frida.andersson@broby-robotik---montage.example",
+   "title": "Kvalitetschef",
+   "company": "bromolla-robot",
+   "status": "pending",
+   "registered_days_ago": 23,
+   "consent": true,
+   "phone": "040-882 85 28"
+  },
+  {
+   "login": "gustav.ostberg",
+   "name": "Gustav Östberg",
+   "email": "gustav.ostberg@broby-robotik---montage.example",
+   "title": "Produktionschef",
+   "company": "bromolla-robot",
+   "status": "approved",
+   "registered_days_ago": 42,
+   "consent": true,
+   "phone": "040-882 85 97"
+  },
+  {
+   "login": "karolina.torstensson",
+   "name": "Karolina Torstensson",
+   "email": "karolina.torstensson@sjobo-industrilackering.example",
+   "title": "VD",
+   "company": "sjobo-lack",
+   "status": "approved",
+   "registered_days_ago": 78,
+   "consent": true,
+   "phone": ""
+  },
+  {
+   "login": "patrik.olsson",
+   "name": "Patrik Olsson",
+   "email": "patrik.olsson@sjobo-industrilackering.example",
+   "title": "Projektledare",
+   "company": "sjobo-lack",
+   "status": "approved",
+   "registered_days_ago": 104,
+   "consent": true,
+   "phone": ""
+  },
+  {
+   "login": "andreas.hermansson",
+   "name": "Andreas Hermansson",
+   "email": "andreas.hermansson@vellinge-additiv-tillverkning.example",
+   "title": "VD",
+   "company": "vellinge-3d",
+   "status": "approved",
+   "registered_days_ago": 100,
+   "consent": true,
+   "phone": "040-672 35 29"
+  },
+  {
+   "login": "henrik.isaksson",
+   "name": "Henrik Isaksson",
+   "email": "henrik.isaksson@vellinge-additiv-tillverkning.example",
+   "title": "IT-ansvarig",
+   "company": "vellinge-3d",
+   "status": "pending",
+   "registered_days_ago": 29,
+   "consent": true,
+   "phone": "040-672 35 22"
+  },
+  {
+   "login": "joakim.andersson",
+   "name": "Joakim Andersson",
+   "email": "joakim.andersson@landskrona-logistikteknik.example",
+   "title": "VD",
+   "company": "landskrona-logistik",
+   "status": "approved",
+   "registered_days_ago": 59,
+   "consent": true,
+   "phone": ""
+  },
+  {
+   "login": "rasmus.lindholm",
+   "name": "Rasmus Lindholm",
+   "email": "rasmus.lindholm@exempel.example",
+   "title": "Student",
+   "company": "",
+   "status": "pending",
+   "registered_days_ago": 2,
+   "consent": true,
+   "phone": ""
+  },
+  {
+   "login": "tove.engberg",
+   "name": "Tove Engberg",
+   "email": "tove.engberg@exempel.example",
+   "title": "Konsult",
+   "company": "",
+   "status": "pending",
+   "registered_days_ago": 2,
+   "consent": true,
+   "phone": ""
+  }
+ ],
+ "comments": [
+  {
+   "author": "johan.nilsson",
+   "status": "reported",
+   "text": "Vi bytte leverantör och är väldigt nöjda. Kontakta oss så berättar vi vilken leverantör vi valde och vad det kostade."
+  },
+  {
+   "author": "karin.dahl",
+   "status": "hold",
+   "text": "Håller med, vi har haft samma problem med orderdata mellan systemen."
+  },
+  {
+   "author": "erik.sandberg",
+   "status": "hold",
+   "text": "Någon som har erfarenhet av automatiserad lackering i mindre serier?"
+  },
+  {
+   "author": "karl.nordin",
+   "status": "published",
+   "text": "Vi har byggt flera robotceller med visionstyrd plockning. Hör gärna av er om ni vill se en demo."
+  },
+  {
+   "author": "maria.bergstrom",
+   "status": "published",
+   "text": "Cybersäkerhet inför kundkrav: vi samlar ett par företag för att dela erfarenheter. Anmäl intresse här."
+  },
+  {
+   "author": "hanna.olsson",
+   "status": "reported",
+   "text": "Köp billig råvara direkt av mig, skicka bara ett meddelande så fixar jag priset."
+  },
+  {
+   "author": "mats.holmgren",
+   "status": "published",
+   "text": "Tack för tipset, vi anmäler två svetsare till nästa certifieringsomgång."
+  },
+  {
+   "author": "ingrid.falk",
+   "status": "hold",
+   "text": "Har någon provat vibrationssensorer för förebyggande underhåll på äldre maskiner?"
+  },
+  {
+   "author": "gustav.lindgren",
+   "status": "published",
+   "text": "Vi mätte energiförbrukningen per maskin i tre månader. Det gav fler insikter än vi trodde."
+  },
+  {
+   "author": "daniel.rosen",
+   "status": "published",
+   "text": "Vi har provat additiv tillverkning för reservdelar och sparat mycket lagertid. Fråga gärna om ni undrar något."
+  },
+  {
+   "author": "emma.ulriksson",
+   "status": "hold",
+   "text": "Är det någon som har erfarenhet av att få ut CE-märkning för robotceller i egen regi?"
+  },
+  {
+   "author": "per.akesson",
+   "status": "reported",
+   "text": "Ring mig direkt på 070-000 00 00 så säljer jag er billiga verktyg, bättre pris än alla andra här."
+  },
+  {
+   "author": "annika.engstrom",
+   "status": "published",
+   "text": "Tack för tipset om Produktionslyftet, vi anmälde oss förra veckan."
+  },
+  {
+   "author": "elin.torstensson",
+   "status": "hold",
+   "text": "Vi söker två operatörer med CNC-vana. Delar gärna kontakter om ni vet någon."
+  },
+  {
+   "author": "emma.eliasson",
+   "status": "reported",
+   "text": "Det där företaget vet inte vad de pratar om, helt oseriöst."
+  }
+ ],
+ "requests": [
+  {
+   "author": "anna.lindqvist",
+   "subject": "Vill automatisera monteringen av små serier",
+   "type": "need",
+   "status": "new",
+   "days_ago": 0,
+   "message": "Vi monterar för hand idag och ser att antalet små serier ökar. Kan IUC Syd hjälpa oss att hitta rätt väg in i automation?"
+  },
+  {
+   "author": "karl.nordin",
+   "subject": "Pilotkunder för visionstyrd plockning",
+   "type": "question",
+   "status": "in_progress",
+   "days_ago": 2,
+   "message": "Vi söker två till tre pilotkunder i regionen. Finns det företag ni kan koppla oss till?"
+  },
+  {
+   "author": "erik.sandberg",
+   "subject": "Fråga om stöd för kompetensutveckling",
+   "type": "question",
+   "status": "new",
+   "days_ago": 1,
+   "message": "Vi ser ett behov av utbildning inför ett maskinbyte. Finns det stöd vi kan söka?"
+  },
+  {
+   "author": "maria.bergstrom",
+   "subject": "Rekrytering av operatörer",
+   "type": "need",
+   "status": "answered",
+   "days_ago": 6,
+   "message": "Vi har svårt att hitta operatörer. Har ni kontakter mot skolor i regionen?"
+  },
+  {
+   "author": "lena.hakansson",
+   "subject": "Ny kontaktperson för kvalitet",
+   "type": "contact",
+   "status": "new",
+   "days_ago": 3,
+   "message": "Vi vill lägga till Tomas Wiberg som kontaktperson. Han är kvalitetschef hos oss."
+  },
+  {
+   "author": "hanna.olsson",
+   "subject": "Cybersäkerhet i produktionsnätverket",
+   "type": "need",
+   "status": "in_progress",
+   "days_ago": 4,
+   "message": "Våra kunder ställer nya krav på cybersäkerhet. Vi behöver hjälp att komma igång med en kartläggning."
+  },
+  {
+   "author": "gustav.lindgren",
+   "subject": "Energieffektivisering",
+   "type": "other",
+   "status": "answered",
+   "days_ago": 9,
+   "message": "Tack för träffen om hållbarhet. Vi vill gärna följa upp med ett möte om energimätning."
+  },
+  {
+   "author": "per.mansson",
+   "subject": "Hitta finansiering för ny robotcell",
+   "type": "need",
+   "status": "new",
+   "days_ago": 1,
+   "message": "Vi har ett konkret behov och vill gärna diskutera hur IUC Syd kan hjälpa oss vidare. Det gäller: hitta finansiering för ny robotcell. Hör gärna av er via mejl eller telefon."
+  },
+  {
+   "author": "mikael.bergstrom",
+   "subject": "Fråga om Kickstart AI",
+   "type": "question",
+   "status": "new",
+   "days_ago": 0,
+   "message": "Vi har en fråga till er som vi inte hittat svar på: fråga om Kickstart AI. Hör gärna av er via mejl eller telefon."
+  },
+  {
+   "author": "josefin.torstensson",
+   "subject": "Önskar kontakt kring generationsskifte",
+   "type": "contact",
+   "status": "in_progress",
+   "days_ago": 6,
+   "message": "Vi vill gärna bli kontaktade om följande: önskar kontakt kring generationsskifte. Hör gärna av er via mejl eller telefon."
+  },
+  {
+   "author": "robin.persson",
+   "subject": "Tips på leverantör av visionsystem",
+   "type": "need",
+   "status": "answered",
+   "days_ago": 9,
+   "message": "Vi har ett konkret behov och vill gärna diskutera hur IUC Syd kan hjälpa oss vidare. Det gäller: tips på leverantör av visionsystem. Hör gärna av er via mejl eller telefon."
+  },
+  {
+   "author": "emma.rosen",
+   "subject": "Byte av kontaktperson",
+   "type": "other",
+   "status": "new",
+   "days_ago": 2,
+   "message": "Vi vill meddela er följande: byte av kontaktperson. Hör gärna av er via mejl eller telefon."
+  },
+  {
+   "author": "emma.persson",
+   "subject": "Energikartläggning – hur går vi vidare?",
+   "type": "need",
+   "status": "in_progress",
+   "days_ago": 4,
+   "message": "Vi har ett konkret behov och vill gärna diskutera hur IUC Syd kan hjälpa oss vidare. Det gäller: energikartläggning – hur går vi vidare?. Hör gärna av er via mejl eller telefon."
+  },
+  {
+   "author": "stefan.carlsson",
+   "subject": "Intresse för nätverksträff i Kristianstad",
+   "type": "question",
+   "status": "answered",
+   "days_ago": 12,
+   "message": "Vi har en fråga till er som vi inte hittat svar på: intresse för nätverksträff i Kristianstad. Hör gärna av er via mejl eller telefon."
+  }
+ ]
+}

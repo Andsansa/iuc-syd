@@ -21,6 +21,14 @@ define(
 );
 
 require_once IUC_PORTAL_FEATURES_PATH . 'includes/private-requests.php';
+require_once IUC_PORTAL_FEATURES_PATH . 'includes/admin-dashboard.php';
+require_once IUC_PORTAL_FEATURES_PATH . 'includes/company-admin.php';
+require_once IUC_PORTAL_FEATURES_PATH . 'includes/company-view.php';
+require_once IUC_PORTAL_FEATURES_PATH . 'includes/company-link.php';
+require_once IUC_PORTAL_FEATURES_PATH . 'includes/user-admin.php';
+require_once IUC_PORTAL_FEATURES_PATH . 'includes/request-admin.php';
+require_once IUC_PORTAL_FEATURES_PATH . 'includes/content-shells.php';
+require_once IUC_PORTAL_FEATURES_PATH . 'includes/mock-data.php';
 
 /**
  * Load the plugin's frontend styles.
