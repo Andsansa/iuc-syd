@@ -1,6 +1,30 @@
+# Ignorera hela WordPress-kärnan, wp-config.php m.m. som standard
+/*
+
+# Tillåt dokumentation och git-filer i roten
+!.gitignore
+!README.md
+
+# Öppna wp-content men ignorera allt där inne (t.ex. uploads och cache)
+!wp-content/
+wp-content/*
+
+# Tillåt bara era egna plugins (namnkonvention: iuc-*)
+!wp-content/plugins/
+wp-content/plugins/*
+!wp-content/plugins/iuc-*
+
+# Tillåt bara ert eget tema / child theme (namnkonvention: iuc-*)
+!wp-content/themes/
+wp-content/themes/*
+!wp-content/themes/iuc-*
+
+# Ignorera alltid skräpfiler, editor-mappar, paket och hemligheter överallt
+node_modules/
+.vscode/
+.idea/
 .DS_Store
 Thumbs.db
 *.log
 *.zip
-.vscode/
-.idea/
+.env
